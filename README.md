@@ -1,5 +1,5 @@
 # FAIL
-This is basically a file format nobody asked for.
+This is basically a file archiving format nobody asked for, I guess.
 
 I created this mostly because I wanted to practice with Python a bit. This is a file container that does nothing more than store the filename, its size, and the actual contents.
 
