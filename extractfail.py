@@ -3,7 +3,7 @@ import argparse, sys, os, binascii
 
 if len(sys.argv) != 3:
     print 'pick a file to extract and a directory to put all the files in'
-    print '  extractfail.py file.fail stuff'
+    print '  extractfail.py myarchive.fail directory'
     sys.exit()
 
 if not os.path.isfile(sys.argv[1]):

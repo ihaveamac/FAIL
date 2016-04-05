@@ -4,7 +4,7 @@ version = 1
 
 if len(sys.argv) < 3:
     print 'include some files yo'
-    print '  buildfail.py file.txt *.bin'
+    print '  buildfail.py myarchive.fail thing.bin *.zip game.3dsx'
     sys.exit()
 
 # totally stolen from ncchinfo_gen

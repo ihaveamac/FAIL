@@ -5,6 +5,8 @@ I created this mostly because I wanted to practice with Python a bit. This is a 
 
 The name "FAIL" is from possibly all the things I've done so wrong making this, as well as all the things it doesn't support (like directories), and things I could have done better. But hey, I had fun.
 
+I noticed this generates a larger file than a darc, huh. Maybe because of how I store filenames.
+
 ## Usage
 ```bash
 python buildfail.py myarchive.fail thing.bin *.zip game.3dsx
